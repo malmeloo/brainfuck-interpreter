@@ -11,6 +11,9 @@ program superior to other projects.
 
 It was also a fun project to work on in general.
 
+## Installation
+```pip install brainfuck-interpreter```
+
 ## Features
 * Object-oriented
 * Easy to use
