@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="brainfuck-interpreter-DismissedGuy",
+    name="brainfuck-interpreter",
     version="1.0.0",
     author="Mike A.",
     author_email="dismissed.is.a.guy@gmail.com",
